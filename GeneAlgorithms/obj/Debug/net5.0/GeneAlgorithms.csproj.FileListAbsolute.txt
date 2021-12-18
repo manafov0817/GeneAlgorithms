@@ -1,0 +1,16 @@
+C:\Users\User\OneDrive\Desktop\GeneAlgorithms\GeneAlgorithms\bin\Debug\net5.0\GeneAlgorithms.exe
+C:\Users\User\OneDrive\Desktop\GeneAlgorithms\GeneAlgorithms\bin\Debug\net5.0\GeneAlgorithms.deps.json
+C:\Users\User\OneDrive\Desktop\GeneAlgorithms\GeneAlgorithms\bin\Debug\net5.0\GeneAlgorithms.runtimeconfig.json
+C:\Users\User\OneDrive\Desktop\GeneAlgorithms\GeneAlgorithms\bin\Debug\net5.0\GeneAlgorithms.runtimeconfig.dev.json
+C:\Users\User\OneDrive\Desktop\GeneAlgorithms\GeneAlgorithms\bin\Debug\net5.0\GeneAlgorithms.dll
+C:\Users\User\OneDrive\Desktop\GeneAlgorithms\GeneAlgorithms\bin\Debug\net5.0\ref\GeneAlgorithms.dll
+C:\Users\User\OneDrive\Desktop\GeneAlgorithms\GeneAlgorithms\bin\Debug\net5.0\GeneAlgorithms.pdb
+C:\Users\User\OneDrive\Desktop\GeneAlgorithms\GeneAlgorithms\obj\Debug\net5.0\GeneAlgorithms.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\GeneAlgorithms\GeneAlgorithms\obj\Debug\net5.0\GeneAlgorithms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Desktop\GeneAlgorithms\GeneAlgorithms\obj\Debug\net5.0\GeneAlgorithms.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Desktop\GeneAlgorithms\GeneAlgorithms\obj\Debug\net5.0\GeneAlgorithms.AssemblyInfo.cs
+C:\Users\User\OneDrive\Desktop\GeneAlgorithms\GeneAlgorithms\obj\Debug\net5.0\GeneAlgorithms.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\GeneAlgorithms\GeneAlgorithms\obj\Debug\net5.0\GeneAlgorithms.dll
+C:\Users\User\OneDrive\Desktop\GeneAlgorithms\GeneAlgorithms\obj\Debug\net5.0\ref\GeneAlgorithms.dll
+C:\Users\User\OneDrive\Desktop\GeneAlgorithms\GeneAlgorithms\obj\Debug\net5.0\GeneAlgorithms.pdb
+C:\Users\User\OneDrive\Desktop\GeneAlgorithms\GeneAlgorithms\obj\Debug\net5.0\GeneAlgorithms.genruntimeconfig.cache
